@@ -1,17 +1,25 @@
 {
   "name": "meeko",
   "version": "1.0.0",
-  "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build" : "tsc"
+    "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Euris <contact@euris.gq> (https://euris.gq/)",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.7.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarhuuus/meeko.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aarhuuus/meeko/issues"
+  },
+  "homepage": "https://github.com/aarhuuus/meeko#readme",
+  "description": ""
 }
